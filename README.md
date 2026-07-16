@@ -609,9 +609,633 @@ Android Application currently under development.
 🚀 Happy Coding 🚀
 
 </h3>
+<!-- ===================================================== -->
+<!--                DEVELOPER PROFILE                      -->
+<!-- ===================================================== -->
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Developer Profile
 
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+### 👨‍💻 About Me
+
+```yaml
+
+Name: Sumit Ganesh Ade
+
+Role: Full Stack Developer
+
+Education: B.Tech Computer Science Engineering
+
+Country: India 🇮🇳
+
+Passionate About:
+
+- AI
+
+- Web Development
+
+- Automation
+
+- Mobile Apps
+
+- Problem Solving
+
+Currently Learning:
+
+- React
+
+- Node.js
+
+- Express
+
+- AI
+
+- Android
+
+Dream Company:
+
+Google
+
+Microsoft
+
+Amazon
+
+Adobe
+
+Atlassian
+
+```
+
+<br>
+
+---
+
+# 💻 Tech Universe
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=c" width="65"/>
+
+<br>
+
+C
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp" width="65"/>
+
+<br>
+
+C++
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=java" width="65"/>
+
+<br>
+
+Java
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+
+<br>
+
+Python
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=js" width="65"/>
+
+<br>
+
+JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+
+<br>
+
+React
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
+
+<br>
+
+Node
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=express" width="65"/>
+
+<br>
+
+Express
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+
+<br>
+
+MySQL
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=supabase" width="65"/>
+
+<br>
+
+Supabase
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="65"/>
+
+<br>
+
+Git
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
+
+<br>
+
+GitHub
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/>
+
+<br>
+
+VS Code
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" width="65"/>
+
+<br>
+
+Linux
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postman" width="65"/>
+
+<br>
+
+Postman
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Current Mission
+
+🌱 Learning Full Stack Development
+
+⚡ Building AI Projects
+
+📱 Android App Development
+
+🧠 Solving DSA Problems
+
+☁ Learning Cloud Computing
+
+🤝 Open Source Contributions
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sumyaopratar123">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+</a>
+
+<a href="https://www.linkedin.com/in/sumitade3755">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+
+</a>
+
+<a href="mailto:sumitade324@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+
+</a>
+
+<a href="https://leetcode.com/u/5qVkMzkpQ7/">
+
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+
+</a>
+
+<a href="https://www.hackerrank.com/profile/sumitade324">
+
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank">
+
+</a>
+
+<a href="https://www.codechef.com/users/crash_goal_76">
+
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge">
+
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```text
+
+while(alive){
+
+Learn();
+
+Build();
+
+Repeat();
+
+}
+
+```
+
+---
+
+# ❤️ Thanks for Visiting
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer"/>
+<!-- ===================================================== -->
+<!--              PREMIUM FEATURED PROJECTS                -->
+<!-- ===================================================== -->
+
+<h1 align="center">🚀 Featured Projects</h1>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 JobSensei AI</h3>
+
+<p align="center">
+
+AI Powered Resume Analyzer & Career Guidance Platform.
+
+</p>
+
+### ✨ Features
+
+- Resume ATS Analysis
+- AI Career Suggestions
+- Skill Gap Detection
+- Resume Score
+- Learning Roadmap
+
+### 🛠 Tech Stack
+
+React • Node.js • Python • Express • AI
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🧠 Jarvix AI Desktop Automation</h3>
+
+<p align="center">
+
+Desktop Automation using Artificial Intelligence.
+
+</p>
+
+### ✨ Features
+
+- Voice Commands
+- Open Apps
+- Browser Automation
+- AI Chat
+- File Automation
+
+### 🛠 Tech Stack
+
+Python • Automation • Speech Recognition
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">😀 AI Face Attendance</h3>
+
+<p align="center">
+
+Automatic Face Recognition Attendance System.
+
+</p>
+
+### ✨ Features
+
+- Face Detection
+- Face Recognition
+- Attendance Report
+- Live Camera
+- CSV Export
+
+### 🛠 Tech Stack
+
+Python • OpenCV • Flask
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🔍 Lost & Found Portal</h3>
+
+<p align="center">
+
+Campus Lost & Found Management System.
+
+</p>
+
+### ✨ Features
+
+- Lost Item Report
+- Found Item Report
+- Smart Search
+- Admin Panel
+- Image Upload
+
+### 🛠 Tech Stack
+
+React • Node.js • MySQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🚆 UltraTrein</h3>
+
+<p align="center">
+
+Travel Booking Platform.
+
+</p>
+
+### ✨ Features
+
+- Bus Booking
+- Hotel Booking
+- Food Booking
+- Google Maps
+- Nearby Places
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🎮 Water Sort Puzzle</h3>
+
+<p align="center">
+
+Interactive Puzzle Game.
+
+</p>
+
+### ✨ Features
+
+- Multiple Levels
+- Smooth Animation
+- Save Progress
+- Responsive Design
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📌 Currently Building
+
+```text
+📱 Android Application
+
+🤖 AI Projects
+
+🌐 Full Stack Applications
+
+☁ Cloud Learning
+
+🧠 DSA in C++
+
+🚀 SaaS Products
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ 500+ DSA Problems
+- ✅ 10 High Quality Projects
+- ✅ Open Source Contributions
+- ✅ Android Apps
+- ✅ AI Powered Applications
+- ✅ Software Engineer Internship
+<!-- ================= Banner Animation ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=SUMIT%20GANESH%20ADE&fontAlign=50&fontAlignY=40&fontSize=60&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Software%20Developer&descAlignY=60&descAlign=50"/>
+</p>
+
+---
+
+# 🚀 Coding Journey
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumyaopratar123&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumyaopratar123&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumyaopratar123&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumyaopratar123&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumyaopratar123&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🧠 Competitive Programming
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/5qVkMzkpQ7?theme=dark&font=Karma"/>
+
+</p>
+
+---
+
+# 🔥 Profile Highlights
+
+<table>
+
+<tr>
+
+<td>
+
+✅ Full Stack Developer
+
+</td>
+
+<td>
+
+🤖 AI Enthusiast
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+📱 Android Developer
+
+</td>
+
+<td>
+
+🧠 DSA Learner
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+⚡ Backend Developer
+
+</td>
+
+<td>
+
+🚀 Open Source Learner
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌎 Visitor Map
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sumyaopratar123&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+# 💻 Daily Motivation
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+</p>
 
 
 

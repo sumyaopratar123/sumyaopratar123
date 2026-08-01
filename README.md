@@ -1,83 +1,116 @@
-<h1 align="center">Hi 👋, I'm Sumit Ganesh Ade</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | CSE Student
-</h3>
+# 👋 Hi, I'm Sumit Ganesh Ade
 
-<p align="center">
-  <a href="https://github.com/sumyaopratar123">GitHub</a> •
-  <a href="https://www.linkedin.com/in/sumitade3755">LinkedIn</a> •
-  <a href="https://leetcode.com/u/5qVkMzkpQ7/">LeetCode</a> •
-  <a href="mailto:sumitade324@gmail.com">Email</a>
+### Full Stack Developer • AI Enthusiast • B.Tech CSE Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+
+<p>
+<a href="https://github.com/sumyaopratar123"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/sumitade3755"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:sumitade324@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
 - 🎓 B.Tech Computer Science Engineering
-- 💻 Full Stack Developer
-- 🤖 AI Enthusiast
-- 🌱 Currently learning React, Node.js, AI & System Design
-- 🎯 Goal: Software Engineer
+- 💻 Passionate about Full Stack Development & AI
+- 🚀 Building scalable web applications
+- 🌱 Currently learning System Design & Cloud
+- 🎯 Goal: Software Engineer at a Product-Based Company
 
 ---
 
 # 🛠 Tech Stack
 
 ### Languages
-C • C++ • Java • Python • JavaScript
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
+</p>
 
 ### Frontend
-HTML • CSS • React • Tailwind CSS • Bootstrap
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+</p>
 
 ### Backend
-Node.js • Express.js • Flask
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
 
 ### Database
-MySQL • MongoDB • Supabase
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase"/>
+</p>
 
 ### Tools
-Git • GitHub • VS Code • Linux • Postman
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🤖 JobSensei AI
-AI Resume Analyzer & Career Guidance
+AI-powered Resume Analyzer with ATS Score, Career Guidance & Skill Gap Analysis.
 
 ### 😀 AI Face Attendance
-Real-Time Face Recognition Attendance System
+Real-time Face Recognition Attendance System using Python & OpenCV.
 
 ### 🔍 Lost & Found Portal
-Campus Lost & Found Management System
+Campus Lost & Found Management System with Admin Dashboard.
 
 ### 🚆 UltraTrein
-Travel Booking Platform
+Travel Booking Platform integrating Transport, Hotels & Maps.
 
 ### 🖥 Jarvix AI
-Desktop Automation using AI
+Voice-Controlled Desktop Automation Assistant.
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumyaopratar123&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumyaopratar123&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumyaopratar123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumyaopratar123&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sumyaopratar123&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/sumyaopratar123
-- LinkedIn: https://linkedin.com/in/sumitade3755
-- LeetCode: https://leetcode.com/u/5qVkMzkpQ7/
-- HackerRank: https://www.hackerrank.com/profile/sumitade324
-- Email: sumitade324@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/sumitade3755
+- 💻 GitHub: https://github.com/sumyaopratar123
+- 🧩 LeetCode: https://leetcode.com/u/5qVkMzkpQ7/
+- 🏆 HackerRank: https://www.hackerrank.com/profile/sumitade324
+- 📧 Email: **sumitade324@gmail.com**
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>

@@ -24,24 +24,20 @@ Building real-world applications with Web Development, Artificial Intelligence, 
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sumyaopratar123&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 ---
 
 ## 💫 About Me
 
-I'm a Third-Year Computer Science Engineering student passionate about developing practical software solutions using modern web technologies, AI, and machine learning.
+I'm a Third-Year Computer Science Engineering student passionate about building practical software solutions using modern web technologies, AI, and machine learning.
 
 - 🎓 B.Tech in Computer Science Engineering
 - 💻 Focused on Full Stack Web Development
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 📊 Interested in Data Analytics and Intelligent Automation
 - 🧠 Practicing Data Structures and Algorithms using C++
-- ☁️ Exploring Cloud Computing, Docker, and System Design
+- ☁️ Learning Cloud Computing, Docker, and System Design
 - 🚀 Building projects that solve real-world problems
 - 🎯 Aspiring Software Engineer at a product-based company
 
@@ -94,7 +90,7 @@ I'm a Third-Year Computer Science Engineering student passionate about developin
 
 ### 1. 🤖 JobSensei — AI Career Assistant
 
-An AI-powered career platform designed to help job seekers analyze resumes and improve career readiness.
+An AI-powered career platform designed to help job seekers analyze resumes and improve their career readiness.
 
 - Resume analysis and ATS-oriented evaluation
 - Career guidance and skill-gap insights
@@ -190,12 +186,6 @@ A data analytics project focused on extracting useful business insights from sal
 
 <br/><br/>
 
-<a href="https://github.com/sumyaopratar123">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumyaopratar123&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
-</a>
-
-<br/>
-
 <a href="https://github.com/sumyaopratar123?tab=repositories">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
 </a>
@@ -217,7 +207,7 @@ A data analytics project focused on extracting useful business insights from sal
 </a>
 
 <a href="https://github.com/sumyaopratar123">
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
+<img src="https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
 </a>
 
 </div>

@@ -3,13 +3,14 @@
 
 # 👋 Hi, I'm Sumit Ganesh Ade
 
-### Full Stack Developer | AI/ML Enthusiast | CSE Student
+### Full Stack Developer | AI/ML Enthusiast | B.Tech CSE Student
 
-Building real-world applications with Web Development, AI, and Machine Learning.
+Building real-world applications with Web Development, Artificial Intelligence, and Machine Learning.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Code+%7C+Learn+%7C+Build+%7C+Repeat" alt="Typing Animation"/>
 
-<p>
+<br/>
+
 <a href="https://github.com/sumyaopratar123">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -22,7 +23,8 @@ Building real-world applications with Web Development, AI, and Machine Learning.
 <a href="https://leetcode.com/u/5qVkMzkpQ7/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-</p>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=sumyaopratar123&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -32,14 +34,14 @@ Building real-world applications with Web Development, AI, and Machine Learning.
 
 ## 💫 About Me
 
-I'm a Third-Year Computer Science Engineering student passionate about building practical software solutions using modern web technologies, artificial intelligence, and machine learning.
+I'm a Third-Year Computer Science Engineering student passionate about developing practical software solutions using modern web technologies, AI, and machine learning.
 
 - 🎓 B.Tech in Computer Science Engineering
 - 💻 Focused on Full Stack Web Development
 - 🤖 Exploring Artificial Intelligence and Machine Learning
-- 📊 Interested in Data Analytics and intelligent automation
+- 📊 Interested in Data Analytics and Intelligent Automation
 - 🧠 Practicing Data Structures and Algorithms using C++
-- ☁️ Learning Cloud Computing, Docker, and System Design
+- ☁️ Exploring Cloud Computing, Docker, and System Design
 - 🚀 Building projects that solve real-world problems
 - 🎯 Aspiring Software Engineer at a product-based company
 
@@ -56,22 +58,22 @@ I'm a Third-Year Computer Science Engineering student passionate about building 
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Stack"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies"/>
 </p>
 
-### 🗄️ Databases & Backend Services
+### 🗄️ Databases and Backend Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" alt="Database Stack"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" alt="Databases"/>
 </p>
 
-### 🤖 AI, Machine Learning & Data Analytics
+### 🤖 AI, Machine Learning and Data Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -80,7 +82,7 @@ I'm a Third-Year Computer Science Engineering student passionate about building 
 <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"/>
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools and Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,vercel" alt="Tools and Platforms"/>
@@ -92,11 +94,11 @@ I'm a Third-Year Computer Science Engineering student passionate about building 
 
 ### 1. 🤖 JobSensei — AI Career Assistant
 
-An AI-powered career platform designed to help job seekers understand their resumes and improve their career readiness.
+An AI-powered career platform designed to help job seekers analyze resumes and improve career readiness.
 
 - Resume analysis and ATS-oriented evaluation
 - Career guidance and skill-gap insights
-- Actionable feedback for improving job applications
+- Actionable feedback for job applications
 
 ### 2. 📊 Credit Scoring Model
 
@@ -104,14 +106,14 @@ A machine learning application that analyzes credit-related data and predicts cr
 
 - Data cleaning and preprocessing
 - Exploratory data analysis
-- Machine learning model training and prediction
+- Model training and prediction
 - Interactive Streamlit application
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit
 
 ### 3. 👨‍🏫 Teacher Copilot
 
-An AI-enabled educational platform concept for helping teachers prepare learning resources and manage mixed-grade classroom workflows.
+An AI-enabled educational platform concept for helping teachers prepare learning resources and manage classroom workflows.
 
 - AI-assisted lesson planning
 - Worksheet and assessment generation
@@ -125,7 +127,7 @@ A voice-controlled desktop assistant concept designed to support everyday comput
 
 - Voice-based interaction
 - Desktop automation workflows
-- Productivity-focused assistant features
+- Productivity-focused features
 
 ### 5. 😀 AI Face Attendance System
 
@@ -139,15 +141,15 @@ A computer vision project designed to automate attendance using face detection a
 
 ### 6. 🔍 Lost & Found Portal
 
-A campus-oriented platform concept for reporting, discovering, and managing lost and found items.
+A campus-oriented platform for reporting and discovering lost and found items.
 
 - Lost and found item listings
-- Item discovery and reporting
+- Item reporting and discovery
 - Administrative management interface
 
 ### 7. 📈 Sales Data Analysis
 
-A data analytics project focused on extracting meaningful business insights from sales datasets.
+A data analytics project focused on extracting useful business insights from sales datasets.
 
 - Data cleaning and preprocessing
 - Sales performance analysis
@@ -156,31 +158,47 @@ A data analytics project focused on extracting meaningful business insights from
 
 **Technologies:** Python, Pandas, NumPy
 
-> Project descriptions and technology stacks should match the actual implementations in your repositories.
-
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumyaopratar123&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumyaopratar123&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumyaopratar123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sumyaopratar123&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumyaopratar123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="Most Used Languages"/>
 
 </div>
 
 ---
 
-## 📅 Contribution Activity
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumyaopratar123&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=sumyaopratar123&theme=github-dark-blue&hide_border=true&starting_year=2025&timezone=Asia%2FKolkata" width="100%" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Contributions — 2026
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/2026%20Contributions-2809-238636?style=for-the-badge&logo=github&logoColor=white" alt="2026 Contributions"/>
+
+<br/><br/>
+
+<a href="https://github.com/sumyaopratar123">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumyaopratar123&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/sumyaopratar123?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
 
 </div>
 
@@ -213,6 +231,7 @@ A data analytics project focused on extracting meaningful business insights from
 - 🤖 Developing AI and machine learning projects
 - ☁️ Exploring cloud deployment and Docker
 - 🏗️ Improving software engineering and system design fundamentals
+- 🚀 Preparing for software engineering placements
 
 ---
 
@@ -232,8 +251,8 @@ I'm always interested in learning new technologies, collaborating with developer
 
 ### ⭐ Thanks for visiting my GitHub profile!
 
-**"Code. Learn. Build. Improve. Repeat."**
+**Code. Learn. Build. Improve. Repeat.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=100&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>

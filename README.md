@@ -1,52 +1,46 @@
-# Hi, I'm Sumit Ganesh Ade 👋
+ <div align="center">
 
-### Full-Stack Developer | AI/ML Enthusiast | CSE Student
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Sumit+Ganesh+Ade;Full-Stack+Developer;AI%2FML+%26+Data+Analytics;Building+Ideas+Into+Reality" alt="Animated introduction" />
 
-Building practical applications with **Web Development, AI/ML, and Data Analytics.**
+**CSE Student · Developer · Tech Enthusiast**
 
-- 🎓 B.Tech CSE Student at DYPCET, Kolhapur
-- 💻 Web & App Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analytics & Problem Solving
-- 🚀 Building projects that solve real-world problems
+Building practical applications with code, AI, and data.
 
-### 🛠️ Tech Stack
-
-**Languages:** Python · C++ · Java · JavaScript · SQL
-
-**Development:** React · Next.js · Node.js · Express · FastAPI
-
-**Data & AI:** Pandas · NumPy · Scikit-learn · Generative AI
-
-**Tools:** Git · GitHub · MongoDB · PostgreSQL · Docker
-
-### 📌 Featured Projects
-
-- **AarogyaConnect** — AI-Powered Healthcare Platform
-- **JobSensei** — AI-Powered Career Assistant
-- **Jarvix** — AI Automation Platform
-- **TravelBharat** — Travel & Tourism Platform
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumit18ade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit18ade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[Portfolio](https://sumit18x-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sumitade3755) · [GitHub](https://github.com/sumit18ade)
 
 </div>
 
-### 🤝 Connect With Me
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/sumit18ade)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumitade3755)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel)](https://sumit18x-portfolio.vercel.app/)
+### ⚡ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🚀 What I Do
+
+- 🤖 AI/ML & Generative AI
+- 🌐 Web & App Development
+- 📊 Data Analytics
+- 💻 Competitive Coding
+
+### 📌 Featured Projects
+
+- **AarogyaConnect** — AI Healthcare
+- **JobSensei** — AI Career Assistant
+- **Jarvix** — AI Automation
+- **TravelBharat** — Travel Platform
 
 ---
 
 <div align="center">
 
-**Learn. Build. Innovate. Repeat. 🚀**
+*Code. Create. Innovate.* ✨
 
 </div>

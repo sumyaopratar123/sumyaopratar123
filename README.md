@@ -1,10 +1,10 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Sumit+Ganesh+Ade;Full-Stack+Developer;AI%2FML+%7C+App+%26+Web+Development;Data+Analytics+%7C+Competitive+Coding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Sumit+Ganesh+Ade;Full-Stack+Developer;AI%2FML+Enthusiast;Web+%26+App+Developer;Data+Analytics+%26+Problem+Solving" alt="Typing Animation" />
 
-### Full-Stack Developer · AI/ML Enthusiast · CSE Student
+### Full-Stack Developer | AI/ML | Data Analytics
 
-Building technology that solves real-world problems.
+Building practical applications and exploring innovative technologies.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sumit18x-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumitade3755)
@@ -13,6 +13,14 @@ Building technology that solves real-world problems.
 </div>
 
 ---
+
+### 👨‍💻 About Me
+
+- 🎓 Third-Year Computer Science Engineering Student at DYPCET, Kolhapur
+- 🌐 Web & App Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics & Competitive Coding
+- 🚀 Focused on building real-world projects and continuously learning
 
 ### ⚡ Tech Stack
 
@@ -25,24 +33,28 @@ Building technology that solves real-world problems.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🚀 Featured Projects
 
-- 🤖 **JobSensei** — AI-Powered Career Assistant
-- 🏥 **AarogyaConnect** — AI Healthcare Platform
-- ⚡ **Jarvix** — AI Automation Platform
-- 🌍 **TravelBharat** — Travel & Tourism
+| Project | Description |
+|---|---|
+| 🌍 TravelBharat | Travel & Tourism Platform |
+| 📊 Credit Scoring Model | Machine Learning & Data Analysis |
+| 🤖 Teacher Copilot | AI-Powered Education Assistant |
+| 📄 Smart AI Resume Analyzer | AI-Based Resume Analysis |
 
-[Explore All Repositories →](https://github.com/sumit18ade?tab=repositories)
+[**Explore All Projects →**](https://github.com/sumit18ade?tab=repositories)
 
 ---
 
-### 📈 Contribution Activity
+### 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumit18ade&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit18ade&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
